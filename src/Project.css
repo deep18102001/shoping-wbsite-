@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: bisque;
+}
+.nav input{
+    width: 400px;
+    border-radius: 50px;
+    padding: 10px;
+}
+.nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+.nav li{
+    list-style: none;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+.navul ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    color: aqua;
+    padding: 10px;
+    font-size: 20px;
+    list-style: none;
+}
+.banner {
+    width: 100%;
+    height: 500px;
+    background-image: url(https://cmsimages.shoppersstop.com/Stop_Life_web_94df92b18b/Stop_Life_web_94df92b18b.png);
+    background-size: 100% 500px;
+    animation: change 8s  infinite ease;
+}
+@keyframes change {
+    25%{
+        background-image: url(https://cmsimages.shoppersstop.com/festive_entry_banner_web_ce528da60a/festive_entry_banner_web_ce528da60a.png);
+    }
+    50%{
+        /* background-image: url(https://cmsimages.shoppersstop.com/Kurtas_and_Kurtis_Main_Banner_web_24c91271bf/Kurtas_and_Kurtis_Main_Banner_web_24c91271bf.png); */
+        
+    }
+    75%{
+        background-image: url(https://cmsimages.shoppersstop.com/main_banner_web_Stop_Life_c854fcc841/main_banner_web_Stop_Life_c854fcc841.png);
+    }
+    
+    100%{
+        background-image: url(https://cmsimages.shoppersstop.com/main_banner_web_Adidas_puma_and_more_5675012bbe/main_banner_web_Adidas_puma_and_more_5675012bbe.png);
+    }
+}
+.h1{
+    text-align: center;
+    font-size: 50px;
+    background: #000;
+    color: white;
+}
+.xyz{
+    width: 200px;
+    
+}
+
+.singupapp{
+    background: #0e0e11;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.singupapp input{
+    padding: 10px;
+    width: 400px;
+}
+.Prodiv{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 25px;
+    
+}
+.Prodiv img{
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+.Prodiv button,span{
+    padding: 10px;
+
+}
+.Product-css img{
+    width: 400px;
+}

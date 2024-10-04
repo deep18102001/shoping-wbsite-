@@ -1,0 +1,78 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Clothes",
+      "price": "1099",
+      "image": "https://m.media-amazon.com/images/I/41J0PV9O4lL._AC_UY1100_.jpg",
+      "catgari": "men",
+      "cart": "false"
+    },
+    {
+      "id": 2,
+      "name": "Clothes",
+      "price": "999",
+      "image": "https://ae01.alicdn.com/kf/H14daed24842b4255bff7dbe0e1d17fbfe/New-arrival-long-sleeve-pure-cotton-brand-shirt-men-fashion-comfortable-shirts-for-men-casual-patchwork.jpg",
+      "catgari": "men",
+      "cart": "false"
+    },
+    {
+      "id": 3,
+      "name": "Clothes",
+      "price": "1099",
+      "image": "https://m.media-amazon.com/images/I/41J0PV9O4lL._AC_UY1100_.jpg",
+      "catgari": "men"
+    },
+    {
+      "id": 4,
+      "name": "Clothes",
+      "price": "1099",
+      "image": "https://m.media-amazon.com/images/I/51NSfroIvbL._SX679_.jpg",
+      "catgari": "men",
+      "cart": "false"
+    },
+    {
+      "id": 5,
+      "name": "Clothes",
+      "price": "1199",
+      "image": "https://m.media-amazon.com/images/I/41aBxwSQIwL._AC_UY1100_.jpg",
+      "catgari": "men"
+    },
+    {
+      "id": 6,
+      "name": "Clothes",
+      "price": "1199",
+      "image": "https://muselot.in/cdn/shop/products/Muselot_s-plain-crop-t-shirt-in-whitecolor.jpg?v=1657832986&width=1445",
+      "catgari": "woman"
+    },
+    {
+      "id": 7,
+      "name": "Clothes",
+      "price": "999",
+      "image": "https://www.jiomart.com/images/product/original/rvjxwi68er/popster-printed-cotton-round-neck-loose-fit-half-sleeve-womens-t-shirt-womens-t-shirt-l-women-tshirt-l-tshirt-for-women-product-images-rvjxwi68er-0-202306141157.jpg?im=Resize=(500,630)",
+      "catgari": "woman"
+    },
+    {
+      "id": 8,
+      "name": "Clothes",
+      "price": "999",
+      "image": "https://www.jiomart.com/images/product/original/rvrc42wybi/popster-printed-cotton-round-neck-loose-fit-half-sleeve-womens-t-shirt-womens-t-shirt-l-women-tshirt-l-tshirt-for-women-product-images-rvrc42wybi-0-202306141158.jpg?im=Resize=(1000,1000)",
+      "catgari": "woman"
+    },
+    {
+      "id": 9,
+      "name": "Clothes",
+      "price": "599",
+      "image": "https://muselot.in/cdn/shop/products/Muselot_s-plain-t-shirtforwomen-in-lirilgreencolor.jpg?v=1657571193&width=416",
+      "catgari": "woman"
+    },
+    {
+      "id": 10,
+      "name": "Clothes",
+      "price": "1099",
+      "image": "https://slangstore.in/wp-content/uploads/2024/06/red-3.jpg",
+      "catgari": "woman",
+      "cart": "false"
+    }
+  ]
+}
